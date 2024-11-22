@@ -1,9 +1,9 @@
 # プロジェクト概要
 
 ## 1. プロジェクト一覧
-No1. DiceRollTool: すごろくの最小サイコロ回数計算ツール
-No2. OneDimReversi: 1次元リバーシシミュレーターツール
-No3. MinPermutation: 桁を入れ替えて最小値を求めるツール
+- No1. DiceRollTool: すごろくの最小サイコロ回数計算ツール
+- No2. OneDimReversi: 1次元リバーシシミュレーターツール
+- No3. MinPermutation: 桁を入れ替えて最小値を求めるツール
 
 
 ## 3. 開発環境
